@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        >
+
+        <item android:id="@+id/weixin"
+
+            android:title="微信精选"></item>
+
+        <item android:id="@+id/zhihu"
+
+            android:title="知乎日报"></item>
+
+    </group>
+
+
+
+
+
+</menu>
